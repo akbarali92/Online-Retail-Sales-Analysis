@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,customer_city,product_category,product_name,quantity,price,discount,payment_method
+1001,2025-01-05,501,Lahore,Electronics,Smartphone,2,500,0.1,Credit Card
+1002,2025-01-07,502,Karachi,Clothing,T-shirt,5,20,0.0,Cash on Delivery
+1003,2025-01-08,503,Islamabad,Home Decor,Vase,1,35,0.05,Debit Card
+1004,2025-01-10,504,Rawalpindi,Electronics,Laptop,1,1200,0.15,Credit Card
+1005,2025-01-12,501,Lahore,Clothing,Jeans,3,40,0.1,Cash on Delivery
+1006,2025-01-14,505,Karachi,Electronics,Headphones,4,80,0.05,Debit Card
+1007,2025-01-15,506,Lahore,Toys,Action Figure,2,25,0.0,Credit Card
+1008,2025-01-18,507,Islamabad,Clothing,Jacket,1,60,0.2,Cash on Delivery
+1009,2025-01-20,502,Karachi,Electronics,Smartwatch,1,200,0.1,Debit Card
+1010,2025-01-22,508,Rawalpindi,Home Decor,Lamp,2,45,0.0,Credit Card
+1011,2025-01-25,509,Lahore,Clothing,Shoes,1,70,0.05,Cash on Delivery
+1012,2025-01-27,510,Karachi,Toys,Puzzle,3,15,0.0,Debit Card
+1013,2025-01-30,511,Islamabad,Electronics,Tablet,2,300,0.1,Credit Card
+1014,2025-02-01,512,Rawalpindi,Clothing,Shirt,4,25,0.05,Cash on Delivery
+1015,2025-02-03,501,Lahore,Home Decor,Candle,5,10,0.0,Debit Card
