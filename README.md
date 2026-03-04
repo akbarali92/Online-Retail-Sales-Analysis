@@ -143,8 +143,12 @@ Professional dashboard design and storytelling
 👤 Author
 
 Akbar Ali
+                                                                                                                
 Aspiring Data Analyst
-Focused on transforming raw data into meaningful business insights. 
+
+Focused on transforming raw data into meaningful business insights
+
+
 
 
 
